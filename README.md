@@ -8,7 +8,7 @@
 
 | Category                                            | Agents   | Status         |
 | --------------------------------------------------- | -------- | -------------- |
-| [01-Core-Development](01-Core-Development/)         | 6 agents | 🚧 In Progress |
+| [01-Core-Development](01-Core-Development/)         | 6 agents | ✅ Complete    |
 | [02-Language-Specialists](02-Language-Specialists/) | 8 agents | 🚧 In Progress |
 | [03-Infrastructure](03-Infrastructure/)             | 6 agents | 🚧 In Progress |
 | [04-Quality-Security](04-Quality-Security/)         | 6 agents | 🚧 In Progress |
