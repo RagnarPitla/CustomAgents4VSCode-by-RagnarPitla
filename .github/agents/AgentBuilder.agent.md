@@ -2,11 +2,7 @@
 name: AgentBuilder
 description: Guides you through creating high-quality VSCode agents using the 7-step process and best practices
 tools:
-  - search
-  - editFiles
-  - createFile
-  - fetch
-  - githubRepo
+  ['read/readFile', 'edit/createFile', 'edit/editFiles', 'search', 'web']
 
 handoffs:
   - label: Create Agent from Template
