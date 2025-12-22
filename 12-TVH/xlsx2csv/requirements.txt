@@ -1,0 +1,5 @@
+# XLSX to CSV Converter Dependencies
+# Install with: pip install -r requirements.txt
+
+pandas>=2.0.0
+openpyxl>=3.1.0
